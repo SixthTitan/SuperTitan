@@ -1,5 +1,5 @@
 # Python SuperTitan Bot Client
-# Author: lauren brown
+# Author: SixthTitan
 # Date: 2/14/19
 # Built with Python 3.6
 
